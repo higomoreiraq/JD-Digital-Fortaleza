@@ -1,4 +1,4 @@
-# Oficina Juventude Digital Fortaleza ☄️
+# Workshop Juventude Digital Fortaleza ☄️
 
 Página web de apresentação pessoal construída no evento presencial Juventude Digital Fortaleza
 

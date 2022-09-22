@@ -1,4 +1,4 @@
-# Juventude Digital Fortaleza ☄️
+# Oficina Juventude Digital Fortaleza ☄️
 
 Página web de apresentação pessoal construída no evento presencial Juventude Digital Fortaleza
 
@@ -26,7 +26,7 @@ Para conferir o projeto, acesse:
 #
 # 🌎 English
 
-# Juventude Digital Fortaleza ☄️
+# Juventude Digital Fortaleza Workshop ☄️
 
 Personal presentation webpage built in the face-to-face event "Juventude Digital Fortaleza"
 
